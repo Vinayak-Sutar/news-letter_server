@@ -75,7 +75,3 @@ app.listen(3000 || process.env.PORT, function () {
 
 
 
-//API Key MailChimp
-//d7b4a55671645d7f2fa0855cf9a15137-us8
-//Audience ID
-//55c9e9e124
